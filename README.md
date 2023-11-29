@@ -1,7 +1,4 @@
 #README File
-# For Git
+#For Git
 
-Second commit
-
-Added to do a branch. Now in branch updates
-Done for master..
+Changes done in master.
