@@ -9,3 +9,5 @@ To test difftool.
 
 
 Another difftool try.
+
+Try to make conflict in Master. 30Nov23
