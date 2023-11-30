@@ -9,5 +9,4 @@ To test difftool.
 
 
 Another difftool try.
-
-Try to make conflict in Master. 30Nov23
+Adding inside ver-bad brach - 30Nov23
