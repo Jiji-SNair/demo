@@ -16,6 +16,10 @@ Adding inside ver-bad brach - 30Nov23
 Another try inside brach for conflict - second
 Another try inside Master for Conflict. 30Nov23
 
+<<<<<<< Updated upstream
 update in stage.
 
 More updates..
+=======
+Try for stash.
+>>>>>>> Stashed changes
